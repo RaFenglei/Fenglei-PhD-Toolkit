@@ -1,20 +1,24 @@
-# PMCs-Specific-Marker Applications
+# Fenglei's PhD Applications
 
-This repository contains tutorials and workflows for identifying specific markers of Periosteal Mesenchymal Cells (PMCs) during antler regeneration using multi-omics approaches, including bulk RNA-seq, bulk ATAC-seq, ChIP-seq, and scRNA-seq data. The primary focus is on identifying PMC2-specific markers and key factors for:
+This repository archives the comprehensive computational workflows and resources for my Ph.D. dissertation and related collaborative projects. It focuses on systematically deciphering the regulatory landscape of Periosteal Mesenchymal Cells (PMCs) during antler regeneration.
 
-- Inducing PMC2 to PMC4 conversion
-- Inducing human MSCs to deer ABPC-like cells
+We employ an advanced multi-omics and AI-driven framework, integrating datasets and methods including:
+- Bulk Omics: RNA-seq, ATAC-seq, ChIP-seq
+- Single-cell Omics: scRNA-seq, scATAC-seq, and Multi-modal integration
+- Spatial Omics: Spatial Transcriptomics
+- AI & Modeling: Application of Large Models (LLMs/Foundation Models) for regulatory syntax inference
 
-This work was completed collaboratively by **Fenglei Zhang** (Master) and **Jinrui Ma** (PhD candidate) in July and August 2025 at the [School of Ecology and Environment](https://see.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), under the supervision of **Prof. [Wen Wang](https://teacher.nwpu.edu.cn/0147C7EFF01849A49FF04A590BCCBC58.html)**, **Prof. [Tongtong Zhang](https://teacher.nwpu.edu.cn/2024010091.html)**, and **Prof. [Ruiwen Zhang](https://see.nwpu.edu.cn/szdw1/js/1.htm)**.
+
+This work has been conducted collaboratively by **Fenglei Zhang** (Master) since 2023 at the [School of Ecology and Environment](https://see.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), under the supervision of **Prof. [Wen Wang](https://teacher.nwpu.edu.cn/0147C7EFF01849A49FF04A590BCCBC58.html)**.
 
 ## Acknowledgments
 
 We sincerely thank the following individuals for their invaluable assistance:
-- **Zihe Li** (Research Assistant Professor, Yazhou Bay National Laboratory)
-- **Tao qin** (Postdoc, Air Force Medical University of PLA)
-- **Botong Zhou** (Postdoc, Northwestern Polytechnical University)
-- **Zheng Zhou** (PhD candidate, Northwestern Polytechnical University)
 - **Jiajun Yao** (PhD candidate, Northwestern Polytechnical University)
+- **Botong Zhou** (Postdoc, Northwestern Polytechnical University)
+- **Haorong li** (PhD candidate, Northwestern Polytechnical University)
+- **Zihe Li** (Research Assistant Professor, Yazhou Bay National Laboratory)
+- **Zheng Zhou** (PhD candidate, Northwestern Polytechnical University)
 - **Lei Hu** (PhD candidate, Westlake University)
 - **Peng Liu** (PhD candidate, Tsinghua University)
 - **Bolin Zhu** (PhD candidate, BGI)
